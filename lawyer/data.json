@@ -1,0 +1,338 @@
+[
+    {
+      "name": "Adv. Rajiv Sharma",
+      "avg_fees": 50000,
+      "consultation_fees": 1500,
+      "specialization": ["Criminal", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Meera Nair",
+      "avg_fees": 40000,
+      "consultation_fees": 1200,
+      "specialization": ["Family Matters"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Arjun Deshmukh",
+      "avg_fees": 60000,
+      "consultation_fees": 2000,
+      "specialization": ["Civil", "Corporate"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Priya Sinha",
+      "avg_fees": 35000,
+      "consultation_fees": 1000,
+      "specialization": ["Family Matters", "Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Karan Malhotra",
+      "avg_fees": 75000,
+      "consultation_fees": 2500,
+      "specialization": ["Criminal"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Anjali Rao",
+      "avg_fees": 42000,
+      "consultation_fees": 1600,
+      "specialization": ["Consumer Protection", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Rohit Patil",
+      "avg_fees": 30000,
+      "consultation_fees": 900,
+      "specialization": ["Family Matters"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Swati Verma",
+      "avg_fees": 55000,
+      "consultation_fees": 1800,
+      "specialization": ["Criminal", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Manish Tiwari",
+      "avg_fees": 80000,
+      "consultation_fees": 3000,
+      "specialization": ["Corporate", "Taxation"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Nidhi Mehta",
+      "avg_fees": 45000,
+      "consultation_fees": 1400,
+      "specialization": ["Family Matters", "Child Custody"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Aakash Dubey",
+      "avg_fees": 47000,
+      "consultation_fees": 1300,
+      "specialization": ["Criminal"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Sneha Reddy",
+      "avg_fees": 36000,
+      "consultation_fees": 1000,
+      "specialization": ["Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Vikram Joshi",
+      "avg_fees": 70000,
+      "consultation_fees": 2200,
+      "specialization": ["Criminal", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Deepika Iyer",
+      "avg_fees": 48000,
+      "consultation_fees": 1600,
+      "specialization": ["Cyber Law", "Corporate"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Rakesh Bansal",
+      "avg_fees": 62000,
+      "consultation_fees": 1700,
+      "specialization": ["Property Disputes"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Harshita Kapoor",
+      "avg_fees": 50000,
+      "consultation_fees": 1800,
+      "specialization": ["Family Matters", "Child Custody"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Sameer Kulkarni",
+      "avg_fees": 65000,
+      "consultation_fees": 2000,
+      "specialization": ["Criminal"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Pooja Bhatt",
+      "avg_fees": 40000,
+      "consultation_fees": 1300,
+      "specialization": ["Civil", "Consumer"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Neelam Kaur",
+      "avg_fees": 47000,
+      "consultation_fees": 1400,
+      "specialization": ["Civil", "Family Matters"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Sanjay Tripathi",
+      "avg_fees": 90000,
+      "consultation_fees": 3000,
+      "specialization": ["Criminal", "Corporate"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Tanvi Shetty",
+      "avg_fees": 39000,
+      "consultation_fees": 1200,
+      "specialization": ["Consumer Protection", "Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Abhay Rawat",
+      "avg_fees": 52000,
+      "consultation_fees": 1600,
+      "specialization": ["Taxation", "Corporate"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Jyoti Menon",
+      "avg_fees": 45000,
+      "consultation_fees": 1500,
+      "specialization": ["Civil", "Property Disputes"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Aman Prakash",
+      "avg_fees": 70000,
+      "consultation_fees": 2200,
+      "specialization": ["Criminal", "Cyber Law"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Radhika Joshi",
+      "avg_fees": 48000,
+      "consultation_fees": 1600,
+      "specialization": ["Family Matters", "Child Custody"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Arvind Iyer",
+      "avg_fees": 85000,
+      "consultation_fees": 2500,
+      "specialization": ["Corporate", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Shalini Raut",
+      "avg_fees": 43000,
+      "consultation_fees": 1400,
+      "specialization": ["Family Matters", "Divorce"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Nishant Mehra",
+      "avg_fees": 65000,
+      "consultation_fees": 2100,
+      "specialization": ["Criminal", "Property Disputes"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Bhavna Dey",
+      "avg_fees": 37000,
+      "consultation_fees": 1100,
+      "specialization": ["Civil", "Consumer"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Kunal Jaiswal",
+      "avg_fees": 56000,
+      "consultation_fees": 1700,
+      "specialization": ["Cyber Law", "Criminal"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Sonali Mitra",
+      "avg_fees": 59000,
+      "consultation_fees": 1900,
+      "specialization": ["Civil", "Consumer", "Environmental"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Devansh Kapoor",
+      "avg_fees": 72000,
+      "consultation_fees": 2300,
+      "specialization": ["Corporate", "Taxation"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Ritu Arora",
+      "avg_fees": 47000,
+      "consultation_fees": 1500,
+      "specialization": ["Family Matters", "Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Harshita Deshmukh",
+      "avg_fees": 46000,
+      "consultation_fees": 1500,
+      "specialization": ["Family Matters", "Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Manav Reddy",
+      "avg_fees": 61000,
+      "consultation_fees": 2000,
+      "specialization": ["Criminal", "Cyber Law"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Kaveri Shankar",
+      "avg_fees": 52000,
+      "consultation_fees": 1600,
+      "specialization": ["Civil", "Consumer"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Rameshwar Sinha",
+      "avg_fees": 89000,
+      "consultation_fees": 2800,
+      "specialization": ["Corporate", "Taxation"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Meena Patil",
+      "avg_fees": 40000,
+      "consultation_fees": 1300,
+      "specialization": ["Divorce", "Child Custody"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Ishaan Sengupta",
+      "avg_fees": 69000,
+      "consultation_fees": 2100,
+      "specialization": ["Criminal", "Civil"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Richa Verma",
+      "avg_fees": 47000,
+      "consultation_fees": 1500,
+      "specialization": ["Family Matters", "Domestic Violence"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Shaurya Bhardwaj",
+      "avg_fees": 75000,
+      "consultation_fees": 2500,
+      "specialization": ["Corporate", "Cyber Crime"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Varsha Kale",
+      "avg_fees": 42000,
+      "consultation_fees": 1200,
+      "specialization": ["Civil", "Consumer Disputes"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Prateek Nair",
+      "avg_fees": 60000,
+      "consultation_fees": 1800,
+      "specialization": ["Criminal", "Intellectual Property"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Sneha Rajput",
+      "avg_fees": 49000,
+      "consultation_fees": 1400,
+      "specialization": ["Family Matters", "Civil"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Alok Chaturvedi",
+      "avg_fees": 82000,
+      "consultation_fees": 2600,
+      "specialization": ["Corporate", "Banking"],
+      "court": "Supreme Court"
+    },
+    {
+      "name": "Adv. Nivedita Basu",
+      "avg_fees": 53000,
+      "consultation_fees": 1700,
+      "specialization": ["Civil", "Family Matters"],
+      "court": "District Court"
+    },
+    {
+      "name": "Adv. Rajat Malhotra",
+      "avg_fees": 67000,
+      "consultation_fees": 2000,
+      "specialization": ["Criminal", "Cyber Law"],
+      "court": "High Court"
+    },
+    {
+      "name": "Adv. Shubhra Dixit",
+      "avg_fees": 39000,
+      "consultation_fees": 1100,
+      "specialization": ["Family Matters", "Women's Rights"],
+      "court": "District Court"
+    }
+  ]
